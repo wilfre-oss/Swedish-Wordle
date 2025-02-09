@@ -1,3 +1,5 @@
-## Woordle in swedish
+# Wordle in swedish
+An simple version of wordle, made to learn some pyhton
 
-Made simply too test some python
+## Usage
+Download the repo and run main
